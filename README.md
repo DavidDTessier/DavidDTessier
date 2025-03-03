@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud & Security Architect. Developer. Tech Blogger. All around great human!
 ----------------------------------------------------------------------------
 
-I am a Cloud Architect with a focus on all things security related, from application security to network security.
+I am a Cloud Security Architect with a focus on all things security related, from application security to network security.
 
 
 * 🖥️  Check out my portfolio at [My Website](http://daviddtessier.ca)
 * ✉️  You can contact me at [david@daviddtessier.ca](mailto:david@daviddtessier.ca)
-* 🚀  I'm currently working on [TBD](http://tdb.ca)
-* 🧠  I'm learning Golang and ethical hacking skills
+* 🚀  I'm currently working on demo for LLM Security (link to repo TBD)
+* 🧠  I'm learning Golang, Rust, ethical hacking skills, as well as AI Governance and Security
 * 🤝  I'm open to collaborating on anything just let me know how I can help
 * ⚡  Fun Fact: I love horror movies, especially the classic 80's horror I love them so much I have a a full sleeve tattoo with the 80's horror characters 😃 and 🎃 Halloween is my favorite holiday
 
