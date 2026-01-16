@@ -3,18 +3,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 💫 About Me:
 
-Cloud & Security Architect. Developer. Tech Blogger. All around great human!
+Cloud & Security Architect. InfoSec Expert. Developer. Tech Blogger. All around great human!
 ----------------------------------------------------------------------------
 
-I am a Cloud Security Architect with a focus on all things security related, from application security to network security.
+I am a Principal Security Architect with a focus on all things security related, from application security to network security.
 
 
-* 🖥️  Check out my portfolio at [My Website](http://daviddtessier.ca)
+* 🖥️  Check out my portfolio at [daviddtessier.ca](https://www.daviddtessier.ca)
 * ✉️  You can contact me at [david@daviddtessier.ca](mailto:david@daviddtessier.ca)
-* 🚀  I'm currently working on demo for LLM Security (link to repo TBD)
-* 🧠  I'm learning Golang, Rust, ethical hacking skills, as well as AI Governance and Security
+* 📜  I am a holder of both ISC<sup>2</sup>'s [CISSP](https://www.credly.com/badges/5ec48dc6-0caa-4a7b-8f47-e4eb1732edfd/public_url) and [CCSP](https://www.credly.com/badges/736ec0c7-25a1-4ed4-b7a5-2c6847c4997e/public_url)
+* 🚀  I'm currently working on demo for LLM and Agentic AI Security workflow that consist of secure MCP Servers (link to repo TBD)
+* 🧠  I'm learning Rust, ethical hacking skills, as well as AI Governance and Security
 * 🤝  I'm open to collaborating on anything just let me know how I can help
-* ⚡  Fun Fact: I love horror movies, especially the classic 80's horror I love them so much I have a a full sleeve tattoo with the 80's horror characters 😃 and 🎃 Halloween is my favorite holiday
+* ⚡  Fun Fact: I love horror movies, especially the classic 80's horror I love them so much I have a full sleeve tattoo with the 80's horror characters 😃 and 🎃 Halloween is my favorite holiday
 
 <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daviddtessier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
