@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is David Tessier
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is David Tessier
 =====================================================================================================================================
 
-# 💫 About Me:
+## 💫 About Me:
 
 Cloud & Security Architect. InfoSec Expert. Developer. Tech Blogger. All around great human!
 ----------------------------------------------------------------------------
@@ -54,10 +54,9 @@ src="https://img.shields.io/github/followers/daviddtessier?logo=github&style=for
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="46" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="46" height="36" alt="Google Cloud" /></a>
 </p>
 
-
 ### Socials
 
- <a href="https://discord.com/users/david.tessier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="46" height="36" /></a> <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="46" height="36" /></a> <a href="https://www.linkedin.com/in/david-tessier-66749613" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="46" height="36" /></a> <a href="https://www.stackoverflow.com/users/david-tessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="46" height="36" /></a> <a href="https://www.x.com/DavidDJTessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="46" height="36" /></a> <a href="https://www.youtube.com/@davidtessier4238" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="46" height="36" /> </a> <a href="https://www.threads.net/@daviddtessier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="46" height="36" /> </picture> </a></p>
+ <a href="https://discord.com/users/david.tessier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="46" height="36" /></a> <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="46" height="36" /></a> <a href="https://www.linkedin.com/in/david-tessier-66749613" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="46" height="36" /></a> <a href="https://stackoverflow.com/users/15223273/david-tessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="46" height="36" /></a> <a href="https://www.x.com/DavidDJTessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="46" height="36" /></a> <a href="https://www.youtube.com/@davidtessier4238" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="46" height="36" /> </a> </p>
 
 ### Badges
 
