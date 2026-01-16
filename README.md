@@ -12,7 +12,7 @@ I am a Principal Security Architect with a focus on all things security related,
 * 🖥️  Check out my portfolio at [daviddtessier.ca](https://www.daviddtessier.ca)
 * ✉️  You can contact me at [david@daviddtessier.ca](mailto:david@daviddtessier.ca)
 * 📜  I am a holder of both ISC<sup>2</sup>'s [CISSP](https://www.credly.com/badges/5ec48dc6-0caa-4a7b-8f47-e4eb1732edfd/public_url) and [CCSP](https://www.credly.com/badges/736ec0c7-25a1-4ed4-b7a5-2c6847c4997e/public_url) credentials
-* 🚀  I'm currently working on demo for LLM and Agentic AI Security workflow that consist of secure MCP Servers (link to repo TBD)
+* 🚀  I'm currently working on a prototype Agentic Platform that will perform threat modelling based on a reference architecture that is provided (repo link TBD)
 * 🧠  I'm learning Rust, ethical hacking skills, as well as AI Governance and Security
 * 🤝  I'm open to collaborating on anything just let me know how I can help
 * ⚡  Fun Fact: I love horror movies, especially the classic 80's horror I love them so much I have a full sleeve tattoo with the 80's horror characters 😃 and 🎃 Halloween is my favorite holiday
