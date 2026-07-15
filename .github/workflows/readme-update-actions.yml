@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Fetch posts
-        uses: armingli/readme-update-actions@v2
+        uses: imskr/readme-update-actions@v2
         with:
           rss_list: "https://blog.daviddtessier.ca/rss.xml" # required
