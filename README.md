@@ -3,11 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💫 About Me:
 
-Cloud & Security Architect. InfoSec Expert. Developer. Tech Blogger. All around great human!
+Cloud & Security Architect. InfoSec Expert. Engineer. Tech Blogger. All around great human!
 ----------------------------------------------------------------------------
 
-I am a Principal Security Architect with a focus on all things security related, from application security to network security.
-
+I am Director & Principal Security Architect with a focus on all things security related, from application security to network security.
 
 * 🖥️  Check out my portfolio at [daviddtessier.ca](https://www.daviddtessier.ca)
 * ✉️  You can contact me at [david@daviddtessier.ca](mailto:david@daviddtessier.ca)
@@ -19,6 +18,10 @@ I am a Principal Security Architect with a focus on all things security related,
 
 <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daviddtessier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG_POST-LIST:END -->
 
 ### Skills
 

