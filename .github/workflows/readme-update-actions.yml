@@ -22,10 +22,10 @@ jobs:
         run: pip install feedparser ruff
 
       - name: Lint with ruff
-        run: ruff check update_readme.py
+        run: ruff check update-readme.py
 
       - name: Run update script
-        run: python update_readme.py
+        run: python update-readme.py
 
       - name: Commit and push changes
         run: |
