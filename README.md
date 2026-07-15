@@ -19,7 +19,7 @@ I am Director & Principal Security Architect with a focus on all things security
 <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daviddtessier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-Lastest Blog Posts
+Latest Blog Posts
 -------------------
 
 <!-- BLOG-POST-LIST:START -->
@@ -71,22 +71,15 @@ Skills
 
 ### Socials
 
- <a href="https://discord.com/users/david.tessier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="46" height="36" /></a> <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="46" height="36" /></a> <a href="https://www.linkedin.com/in/david-tessier-66749613" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="46" height="36" /></a> <a href="https://stackoverflow.com/users/15223273/david-tessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="46" height="36" /></a> <a href="https://www.x.com/DavidDJTessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="46" height="36" /></a> <a href="https://www.youtube.com/@davidtessier4238" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="46" height="36" /> </a> </p>
+ <a href="https://discord.com/users/david.tessier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="46" height="36" /></a> <a href="https://www.github.com/daviddtessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="46" height="36" /></a> <a href="https://www.linkedin.com/in/daviddtessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="46" height="36" /></a> <a href="https://stackoverflow.com/users/15223273/david-tessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="46" height="36" /></a> <a href="https://www.x.com/DavidDJTessier" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="46" height="36" /></a> <a href="https://www.youtube.com/@davidtessier4238" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="46" height="36" /> </a> </p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Metrics</b>
 
-<a href="http://www.github.com/daviddtessier"><img src="https://github-readme-stats.vercel.app/api?username=daviddtessier&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daviddtessier's GitHub stats" /></a>
-
-<a href="http://www.github.com/daviddtessier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddtessier&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/daviddtessier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddtessier&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=daviddtessier)](https://github.com/stats-organization/github-stats-extended)
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.buymeacoffee.com/david.tessier"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/david.tessier"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
